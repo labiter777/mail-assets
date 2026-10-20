@@ -1,1 +1,23 @@
-{"schema":1,"assets":[]}
+{
+ "schema": 1,
+ "assets": [
+  {
+   "key": "a/25d470c2592d/labiter-wordmark.svg",
+   "url": "https://labiter777.github.io/mail-assets/a/25d470c2592d/labiter-wordmark.svg",
+   "bytes": 2991,
+   "content_type": "image/svg+xml",
+   "sha256_12": "25d470c2592d",
+   "source": "labiter-wordmark.svg",
+   "at": "2026-10-20T03:42:55.217Z"
+  },
+  {
+   "key": "a/b2854faa76e4/nl43-host-check.png",
+   "url": "https://labiter777.github.io/mail-assets/a/b2854faa76e4/nl43-host-check.png",
+   "bytes": 73539,
+   "content_type": "image/png",
+   "sha256_12": "b2854faa76e4",
+   "source": "nl43-host-check.png",
+   "at": "2026-10-20T03:42:55.218Z"
+  }
+ ]
+}
