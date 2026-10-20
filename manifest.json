@@ -2,6 +2,15 @@
  "schema": 1,
  "assets": [
   {
+   "key": "a/00e256a405a5/note-view-m.png",
+   "url": "https://labiter777.github.io/mail-assets/a/00e256a405a5/note-view-m.png",
+   "bytes": 53582,
+   "content_type": "image/png",
+   "sha256_12": "00e256a405a5",
+   "source": "note-view-m.png",
+   "at": "2026-10-20T04:36:55.567Z"
+  },
+  {
    "key": "a/25d470c2592d/labiter-wordmark.svg",
    "url": "https://labiter777.github.io/mail-assets/a/25d470c2592d/labiter-wordmark.svg",
    "bytes": 2991,
@@ -11,6 +20,24 @@
    "at": "2026-10-20T03:42:55.217Z"
   },
   {
+   "key": "a/4b96e586352f/admin-audit-log-m.png",
+   "url": "https://labiter777.github.io/mail-assets/a/4b96e586352f/admin-audit-log-m.png",
+   "bytes": 75572,
+   "content_type": "image/png",
+   "sha256_12": "4b96e586352f",
+   "source": "admin-audit-log-m.png",
+   "at": "2026-10-20T04:36:55.568Z"
+  },
+  {
+   "key": "a/6670fb18e7a7/audit-trail-diff.png",
+   "url": "https://labiter777.github.io/mail-assets/a/6670fb18e7a7/audit-trail-diff.png",
+   "bytes": 98570,
+   "content_type": "image/png",
+   "sha256_12": "6670fb18e7a7",
+   "source": "audit-trail-diff.png",
+   "at": "2026-10-20T04:36:55.564Z"
+  },
+  {
    "key": "a/b2854faa76e4/nl43-host-check.png",
    "url": "https://labiter777.github.io/mail-assets/a/b2854faa76e4/nl43-host-check.png",
    "bytes": 73539,
@@ -18,6 +45,51 @@
    "sha256_12": "b2854faa76e4",
    "source": "nl43-host-check.png",
    "at": "2026-10-20T03:42:55.218Z"
+  },
+  {
+   "key": "a/b69b8aed2576/review-comments-m.png",
+   "url": "https://labiter777.github.io/mail-assets/a/b69b8aed2576/review-comments-m.png",
+   "bytes": 31440,
+   "content_type": "image/png",
+   "sha256_12": "b69b8aed2576",
+   "source": "review-comments-m.png",
+   "at": "2026-10-20T04:36:55.567Z"
+  },
+  {
+   "key": "a/ba824d8dbeab/review-comments.png",
+   "url": "https://labiter777.github.io/mail-assets/a/ba824d8dbeab/review-comments.png",
+   "bytes": 33550,
+   "content_type": "image/png",
+   "sha256_12": "ba824d8dbeab",
+   "source": "review-comments.png",
+   "at": "2026-10-20T04:36:55.567Z"
+  },
+  {
+   "key": "a/c0efb3186927/admin-audit-log.png",
+   "url": "https://labiter777.github.io/mail-assets/a/c0efb3186927/admin-audit-log.png",
+   "bytes": 158600,
+   "content_type": "image/png",
+   "sha256_12": "c0efb3186927",
+   "source": "admin-audit-log.png",
+   "at": "2026-10-20T04:36:55.568Z"
+  },
+  {
+   "key": "a/d10aa258c4eb/note-view.png",
+   "url": "https://labiter777.github.io/mail-assets/a/d10aa258c4eb/note-view.png",
+   "bytes": 29459,
+   "content_type": "image/png",
+   "sha256_12": "d10aa258c4eb",
+   "source": "note-view.png",
+   "at": "2026-10-20T04:36:55.566Z"
+  },
+  {
+   "key": "a/d3a9be80ca61/audit-trail-diff-m.png",
+   "url": "https://labiter777.github.io/mail-assets/a/d3a9be80ca61/audit-trail-diff-m.png",
+   "bytes": 69510,
+   "content_type": "image/png",
+   "sha256_12": "d3a9be80ca61",
+   "source": "audit-trail-diff-m.png",
+   "at": "2026-10-20T04:36:55.566Z"
   }
  ]
 }
