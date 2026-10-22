@@ -20,6 +20,15 @@
    "at": "2026-10-22T00:38:52.215Z"
   },
   {
+   "key": "a/0a2cfb08cdfb/nl-stat-pharma-records-kr-F04.png",
+   "url": "https://labiter777.github.io/mail-assets/a/0a2cfb08cdfb/nl-stat-pharma-records-kr-F04.png",
+   "bytes": 9720,
+   "content_type": "image/png",
+   "sha256_12": "0a2cfb08cdfb",
+   "source": "nl-stat-pharma-records-kr-F04.png",
+   "at": "2026-10-22T00:41:43.636Z"
+  },
+  {
    "key": "a/1d2f125021d5/nl-stat-pharma-records-kr-F09.png",
    "url": "https://labiter777.github.io/mail-assets/a/1d2f125021d5/nl-stat-pharma-records-kr-F09.png",
    "bytes": 13271,
@@ -36,6 +45,15 @@
    "sha256_12": "25d470c2592d",
    "source": "labiter-wordmark.svg",
    "at": "2026-10-20T03:42:55.217Z"
+  },
+  {
+   "key": "a/2826dfff43ff/nl-table-pharma-records.png",
+   "url": "https://labiter777.github.io/mail-assets/a/2826dfff43ff/nl-table-pharma-records.png",
+   "bytes": 44937,
+   "content_type": "image/png",
+   "sha256_12": "2826dfff43ff",
+   "source": "nl-table-pharma-records.png",
+   "at": "2026-10-22T00:41:43.637Z"
   },
   {
    "key": "a/2916f550708d/nl-stat-pharma-records-kr-F04.png",
@@ -63,6 +81,24 @@
    "sha256_12": "2f7997361f72",
    "source": "nl-stat-pharma-records-kr-F01.png",
    "at": "2026-10-22T00:38:52.206Z"
+  },
+  {
+   "key": "a/334c5a8a4abc/nl-stat-research-note-kr-F10.png",
+   "url": "https://labiter777.github.io/mail-assets/a/334c5a8a4abc/nl-stat-research-note-kr-F10.png",
+   "bytes": 10245,
+   "content_type": "image/png",
+   "sha256_12": "334c5a8a4abc",
+   "source": "nl-stat-research-note-kr-F10.png",
+   "at": "2026-10-22T00:41:43.637Z"
+  },
+  {
+   "key": "a/3ebb0444241d/nl-stat-pharma-records-kr-F08.png",
+   "url": "https://labiter777.github.io/mail-assets/a/3ebb0444241d/nl-stat-pharma-records-kr-F08.png",
+   "bytes": 9733,
+   "content_type": "image/png",
+   "sha256_12": "3ebb0444241d",
+   "source": "nl-stat-pharma-records-kr-F08.png",
+   "at": "2026-10-22T00:41:43.636Z"
   },
   {
    "key": "a/46c65cf05d17/nl-table-research-note.png",
@@ -101,6 +137,24 @@
    "at": "2026-10-20T04:36:55.564Z"
   },
   {
+   "key": "a/67bbf6bb2752/nl-table-glp.png",
+   "url": "https://labiter777.github.io/mail-assets/a/67bbf6bb2752/nl-table-glp.png",
+   "bytes": 39536,
+   "content_type": "image/png",
+   "sha256_12": "67bbf6bb2752",
+   "source": "nl-table-glp.png",
+   "at": "2026-10-22T00:41:43.637Z"
+  },
+  {
+   "key": "a/697bc1f774e5/nl-stat-glp-nonclinical-F12.png",
+   "url": "https://labiter777.github.io/mail-assets/a/697bc1f774e5/nl-stat-glp-nonclinical-F12.png",
+   "bytes": 10780,
+   "content_type": "image/png",
+   "sha256_12": "697bc1f774e5",
+   "source": "nl-stat-glp-nonclinical-F12.png",
+   "at": "2026-10-22T00:41:43.634Z"
+  },
+  {
    "key": "a/6d8a4345222e/nl-table-glp.png",
    "url": "https://labiter777.github.io/mail-assets/a/6d8a4345222e/nl-table-glp.png",
    "bytes": 47289,
@@ -119,6 +173,15 @@
    "at": "2026-10-22T00:38:52.212Z"
   },
   {
+   "key": "a/831229ee5908/nl-table-research-note.png",
+   "url": "https://labiter777.github.io/mail-assets/a/831229ee5908/nl-table-research-note.png",
+   "bytes": 53788,
+   "content_type": "image/png",
+   "sha256_12": "831229ee5908",
+   "source": "nl-table-research-note.png",
+   "at": "2026-10-22T00:41:43.638Z"
+  },
+  {
    "key": "a/8a057dd86c73/nl-stat-research-note-kr-F10.png",
    "url": "https://labiter777.github.io/mail-assets/a/8a057dd86c73/nl-stat-research-note-kr-F10.png",
    "bytes": 14529,
@@ -126,6 +189,15 @@
    "sha256_12": "8a057dd86c73",
    "source": "nl-stat-research-note-kr-F10.png",
    "at": "2026-10-22T00:38:52.213Z"
+  },
+  {
+   "key": "a/a698ed2ff479/nl-stat-pharma-records-kr-F07.png",
+   "url": "https://labiter777.github.io/mail-assets/a/a698ed2ff479/nl-stat-pharma-records-kr-F07.png",
+   "bytes": 10064,
+   "content_type": "image/png",
+   "sha256_12": "a698ed2ff479",
+   "source": "nl-stat-pharma-records-kr-F07.png",
+   "at": "2026-10-22T00:41:43.636Z"
   },
   {
    "key": "a/ace6dac235ec/nl-stat-glp-nonclinical-F12.png",
@@ -173,6 +245,15 @@
    "at": "2026-10-20T04:36:55.568Z"
   },
   {
+   "key": "a/ca13258d2ba7/nl-stat-pharma-records-kr-F09.png",
+   "url": "https://labiter777.github.io/mail-assets/a/ca13258d2ba7/nl-stat-pharma-records-kr-F09.png",
+   "bytes": 8845,
+   "content_type": "image/png",
+   "sha256_12": "ca13258d2ba7",
+   "source": "nl-stat-pharma-records-kr-F09.png",
+   "at": "2026-10-22T00:41:43.637Z"
+  },
+  {
    "key": "a/d10aa258c4eb/note-view.png",
    "url": "https://labiter777.github.io/mail-assets/a/d10aa258c4eb/note-view.png",
    "bytes": 29459,
@@ -189,6 +270,24 @@
    "sha256_12": "d3a9be80ca61",
    "source": "audit-trail-diff-m.png",
    "at": "2026-10-20T04:36:55.566Z"
+  },
+  {
+   "key": "a/e3d36d9648e3/nl-stat-pharma-records-kr-F01.png",
+   "url": "https://labiter777.github.io/mail-assets/a/e3d36d9648e3/nl-stat-pharma-records-kr-F01.png",
+   "bytes": 8112,
+   "content_type": "image/png",
+   "sha256_12": "e3d36d9648e3",
+   "source": "nl-stat-pharma-records-kr-F01.png",
+   "at": "2026-10-22T00:41:43.635Z"
+  },
+  {
+   "key": "a/e5df78cc48c6/nl-stat-pharma-records-kr-F05.png",
+   "url": "https://labiter777.github.io/mail-assets/a/e5df78cc48c6/nl-stat-pharma-records-kr-F05.png",
+   "bytes": 8205,
+   "content_type": "image/png",
+   "sha256_12": "e5df78cc48c6",
+   "source": "nl-stat-pharma-records-kr-F05.png",
+   "at": "2026-10-22T00:41:43.636Z"
   }
  ]
 }
